@@ -1,0 +1,15 @@
+@import url('s');
+
+:root {
+  --ashwin-bg: #212121;
+  --ashwin-bg2: #302f2f;
+  --ashwin-sec: #bb86fc;
+  --ashwin-links: #cdaef3;
+  --ashwin-home-icon: url(https://cdn.discordapp.com/attachments/1188231531811053661/1195665372976779345/discord-avatar-512-YV0PV.png);
+ --watermark-filter-invert: 0%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-brightness: 70%;
+  --watermark-filter-contrast: 200%;
+  --ashwin-emoji-picker-color: 210deg;

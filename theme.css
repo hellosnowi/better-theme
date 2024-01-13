@@ -1,4 +1,4 @@
-@import url('https://github.com/ashwinuhq/better-theme/blob/main/css-theme.css');
+@import url('https://raw.githubusercontent.com/ashwinuhq/better-theme/main/css-theme.css');
 
 :root {
   --ashwin-bg: #212121;
@@ -13,3 +13,4 @@
   --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 200%;
   --ashwin-emoji-picker-color: 210deg;
+}
